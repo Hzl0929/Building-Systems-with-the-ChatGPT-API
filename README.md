@@ -1,5 +1,5 @@
 # Building-Systems-with-the-ChatGPT-API
-"Building Systems with the ChatGPT API" project from Coursera contributed by DeepLearning.AI.
+**"Building Systems with the ChatGPT API" project from Coursera contributed by DeepLearning.AI.**
 
 In order to run with these code:
 
